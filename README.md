@@ -29,8 +29,6 @@
 
 ## 📁 Projektit
 
-| Projekti | Kuvaus |
-|---------|--------|
 ### 🍋 Lemon Clicker
 - Yksinkertainen klikkauspeli JavaScriptillä
 - Harjoiteltu DOM-manipulaatiota ja tapahtumankäsittelyä
@@ -55,7 +53,8 @@
 - Pythonilla toteutettu arvauspeli
 - Harjoiteltu perusohjelmointia ja käyttäjän syötteiden käsittelyä
 - [Katso GitHubissa](https://github.com/pentinmaki/number-wizard)
-|---------|--------|
+
+---
 
 ## 📬 Yhteystiedot
 
