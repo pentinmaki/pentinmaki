@@ -59,7 +59,7 @@
 ## 📬 Yhteystiedot
 
 - 📍 Ilmajoki, Suomi  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/keijopentinmaki](https://www.linkedin.com/in/keijopentinmaki/) 
+- 💼 LinkedIn: [linkedin.com/in/keijopentinmaki](https://www.linkedin.com/in/keijopentinmaki/)
 - 📫 keijopentinmaki@gmail.com 
 
 ---
