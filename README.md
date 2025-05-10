@@ -7,8 +7,8 @@
 
 - 🔭 Opiskelen ohjelmistokehitystä ja teen käytännön projekteja oppien tueksi  
 - 🌱 Tällä hetkellä harjoittelen **React**, **PHP**, **MySQL** ja **versiohallintaa Gitillä**  
-- 🎯 Tavoitteeni on kehittää täysiverisiä web-sovelluksia ja työllistyä IT-alalle  
-- ✍️ Vapaa-ajalla teen **Canva-tuotteita**, suunnittelen käyttöliittymiä ja opiskelen jatkuvasti uutta teknologiaa  
+- 🎯 Tavoitteeni on kehittää monipuolisia web-sovelluksia ja työllistyä IT-alalle  
+- ✍️ Vapaa-ajalla teen harjoitus projekteja, suunnittelen käyttöliittymiä ja opiskelen jatkuvasti uutta teknologiaa  
 
 ---
 
