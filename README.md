@@ -5,7 +5,7 @@
 
 ## 🧠 Minusta lyhyesti
 
-- 🔭 Opiskelen ohjelmistokehitystä ja teen käytännön projekteja oppien tueksi  
+- 🔭 Opiskelen ohjelmistokehitystä ja teen käytännön projekteja opiskelujen tueksi  
 - 🌱 Tällä hetkellä harjoittelen **React**, **PHP**, **MySQL** ja **versiohallintaa Gitillä**  
 - 🎯 Tavoitteeni on kehittää monipuolisia web-sovelluksia ja työllistyä IT-alalle  
 - ✍️ Vapaa-ajalla teen harjoitus projekteja, suunnittelen käyttöliittymiä ja opiskelen jatkuvasti uutta teknologiaa  
